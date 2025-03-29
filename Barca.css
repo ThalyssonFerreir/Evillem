@@ -1,0 +1,23 @@
+body{
+    overflow: hidden;
+    background-color: rgb(248, 181, 181);
+    margin: 0;
+}
+
+#i25{
+    width: 500px;
+    height: 600px;
+    position: absolute;
+    top: 20px;
+    left: 60px;
+}
+
+#i50{
+    width: 500px;
+    height: 600px;
+    position: absolute;
+    top: 50px;
+    left: 650px;
+}
+
+

@@ -1,0 +1,70 @@
+body {
+    background-color: #f4a7a7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+h1{
+   position: absolute;
+   top: -30px;
+   font-size: 80px;
+}
+
+.container {
+    position: relative;
+}
+
+.corpo {
+    width: 550px;
+    margin: 0 auto;
+    position: relative;
+    top: 70px;
+    right: 20px;
+}
+
+.label {
+    position: absolute;
+    background-color: white;
+    padding: 4px 12px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#cerebro {
+    top: 185px;
+    left: 90px;
+}
+
+#olhos {
+    top: 290px;
+    left: 25px;
+}
+
+#ouvidos {
+    top: 215px;
+    left: 425px;
+}
+
+#boca {
+    top: 355px;
+    left: 540px;
+}
+
+#coracao {
+    top: 480px;
+    left: 425px;
+}
+
+#mao {
+    top: 525px;
+    left: 85px;
+}
+
+a{
+    cursor: pointer;
+}

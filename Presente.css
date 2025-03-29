@@ -1,0 +1,21 @@
+body{
+    overflow: hidden;
+    background-color: rgb(248, 181, 181);
+    margin: 0;
+}
+
+#i23{
+    width: 500px;
+    height: 600px;
+    position: absolute;
+    left: 105px;
+    top: 20px;
+}
+
+#i47{
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    left: 705px;
+    top: 120px;
+}

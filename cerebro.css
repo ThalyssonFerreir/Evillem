@@ -1,0 +1,91 @@
+body{
+    overflow: hidden;
+    background-color: rgb(248, 181, 181);
+    margin: 0;
+}
+
+
+#i20{
+    width: 420px;
+    height: 530px;
+    position: absolute;
+    top: 260px;
+    left: 450px;
+}
+
+
+#i21{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+   left: 1005px;
+   top: 313px;
+}
+
+#i22{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: -50px;
+}
+
+#i23{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 505px;
+}
+
+#i24{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 1005px;
+}
+
+#i25{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 290px;
+    left: 40px;
+}
+
+.Univer{
+    position: absolute;
+    top: 232px;
+    font-size: 20px;
+    left: 7px;
+}
+
+.Beijo{
+    position: absolute;
+    left: 1035px;
+    top: 290px;
+    font-size: 20px;
+}
+
+.Barca{
+    position: absolute;
+    top: 585px;
+    font-size: 20px;
+    left: 6px;
+}
+
+.Presente{
+    position: absolute;
+    left: 490px;
+    top: 280px;
+    font-size: 20px;
+}
+
+.Feira{
+    position: absolute;
+    top: 590px;
+    font-size: 20px;
+    left: 1035px;
+}
+
+a{
+    cursor: pointer;
+}

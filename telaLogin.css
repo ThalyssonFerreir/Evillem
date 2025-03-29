@@ -1,0 +1,169 @@
+body {
+    background-color: #f2b1b1;
+    overflow: hidden;    
+}
+
+#img2{
+width: 450px;
+height: 500px;
+}
+
+#img3{
+width: 1000px;
+height: 1000px;
+margin: 30px;
+}
+
+#img4{
+width: 200px;
+height: 250px;
+}
+
+#img5{
+width: 200px;
+height: 250px;
+}
+
+#img6{
+width: 350px;
+height: 400px;
+}
+
+#img7{
+width: 200px;
+height: 250px;
+}
+
+#img8{
+width: 200px;
+height: 250px;
+}
+
+#img9{
+width: 1000px;
+height: 1000px;
+position: fixed;
+top: -100px; 
+left: 500px; 
+}
+
+#img11{
+width: 150px;
+height: 200px;
+
+}
+
+input{
+    position: relative;
+    top: 40px;
+    border-radius: 8px;
+    background-color: transparent;
+    border: 2px solid rgb(212, 99, 139);
+    margin-bottom: 60px;
+    text-align: center;
+    font-size: 14px;
+    text-align:start ;
+    padding: 4px 10px;
+    z-index: 10;
+}
+
+
+button{
+    position: relative;
+    top: 20px;
+    font-size: 16px;
+    background-color: transparent;
+    border: 2px solid rgb(212, 99, 139);
+    border-radius: 7px;
+    width: 70px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.quadrado{
+    position: relative;
+    background-color: #fff2f3;
+    width: 250px;
+    height: 350px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem3{
+    position: absolute;
+right: 520px;
+top: -120px;
+}
+
+.imagem2{
+    top: -140px;
+    left: 40px;
+    position: absolute;
+}
+
+.imagem6{
+    top: 150px;
+    right: 50px;
+    position: absolute;
+}
+
+.imagem11{
+    top: -50px;
+    right: 125px;
+    position: absolute;
+}
+
+
+.imagem5{
+    position: absolute;
+    top: 420px;
+    left: 20px;
+}
+
+.imagem8{
+    position: absolute;
+    top: 450px;
+    left: 110px;
+}
+
+.imagem4{
+    position: absolute;
+    left: 1150px;
+    top: 360px;
+}
+
+.imagem7{
+    position: absolute;
+    left: 1160px;
+    top: 440px;
+}
+
+#dicas {
+    position: fixed;
+    top: 20px; 
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    color: brown;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 80%;
+    z-index: 1000;
+}
+
+#dicas p {
+    margin: 0; 
+}

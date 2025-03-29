@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(251, 255, 195);
+    margin: 0;
+    overflow: hidden;
+}
+
+
+#i17{
+    width: 320px;
+    height: 430px;
+    position: absolute;
+    left: 1000px;
+    top: -110px;
+}
+
+#i18{
+    width: 600px;
+    height: 700px;
+    position: absolute;
+    left: 380px;
+    top: -20px;
+}
+
+#i19{
+    width: 320px;
+    height: 430px;
+    position: absolute;
+    top: 220px;
+    left: -30px;
+}
+
+#i34{
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    left: 100px;
+    top: -120px;
+}
+
+#i35{
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    top: 220px;
+    left: 920px;
+}
